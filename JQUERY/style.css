@@ -1,0 +1,11 @@
+body {
+   font-size: 16px;
+}
+.paises {
+  width: 250px;
+  margin: 20px auto 0;
+  
+}
+
+table { width: 150%; margin: 30px auto 0;}
+table th, table td { border: 1px solid black; }
